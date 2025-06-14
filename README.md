@@ -8,7 +8,7 @@ It adds the `init`, `dev`, `build` and `build-debug` commands to the `Command Pa
 
 ## JSON validation
 
-The extension automatically pulls the [latest config schema](https://github.com/tauri-apps/tauri/blob/dev/tooling/cli/schema.json) so VS Code can display documentation and autocomplete.
+The extension automatically pulls the [latest config schema](https://github.com/tauri-apps/tauri/blob/dev/crates/tauri-schema-generator/schemas/config.schema.json) so VS Code can display documentation and autocomplete.
 
 # Contributing
 
